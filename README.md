@@ -16,7 +16,7 @@ Swoft Rpc Client Component
 - composer command
 
 ```bash
-composer require swoft/rpc-client
+composer require swoft-fork/rpc-client
 ```
 
 ## Resources

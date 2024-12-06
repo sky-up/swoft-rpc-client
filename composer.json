@@ -9,7 +9,7 @@
     "rpc"
   ],
   "description": "swoft rpc client component",
-  "homepage": "https://github.com/swoft-cloud/swoft-rpc-client",
+  "homepage": "https://github.com/sky-up/swoft-rpc-client",
   "license": "Apache-2.0",
   "require": {
     "swoft-fork/framework": "~2.0.0",
